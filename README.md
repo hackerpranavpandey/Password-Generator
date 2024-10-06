@@ -25,13 +25,13 @@ Instant password generation on the fly.
 Responsive design with a clean and modern interface.
 
 ## Tech Stack
- React.js: A JavaScript library for building user interfaces.
+ React.js: 
  
- JavaScript: Core functionality of the application is built using vanilla JavaScript.
+ JavaScript:
  
- Tailwind CSS: A utility-first CSS framework used for styling the app.
+ Tailwind CSS:
  
- Vercel: The project is deployed using Vercel, providing a fast and reliable deployment solution.
+ Vercel:
 
 # How to Run Locally
 
