@@ -33,7 +33,7 @@ Responsive design with a clean and modern interface.
  
  Vercel:
 
-# How to Run Locally
+## How to Run Locally
 
 Clone the repository:
 
