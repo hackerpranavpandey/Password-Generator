@@ -13,8 +13,11 @@ Generate passwords with a length ranging from 8 to 100 characters.
 Option to include:
 
 Lowercase letters
+
 Uppercase letters
+
 Numbers
+
 Special characters
 
 Instant password generation on the fly.
