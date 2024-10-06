@@ -41,9 +41,7 @@ git clone https://github.com/hackerpranavpandey/password-generator.git
 
 cd password-generator
 
-Install dependencies:
-
-npm install
+Install dependencies:  npm install
 
 ## Start the development server:
 
