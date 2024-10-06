@@ -5,7 +5,7 @@ This is a simple password generator web application built using React.js, JavaSc
 
 ## Live Demo
 
-You can check out the live demo of the project here: Password Generator.
+You can check out the live demo of the project here: https://password-generator-tan-eight.vercel.app/
 
 ## Features
 Generate passwords with a length ranging from 8 to 100 characters.
@@ -30,7 +30,7 @@ Responsive design with a clean and modern interface.
  
  Vercel: The project is deployed using Vercel, providing a fast and reliable deployment solution.
 
-How to Run Locally
+# How to Run Locally
 
 Clone the repository:
 
