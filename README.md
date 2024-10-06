@@ -59,5 +59,3 @@ Push your changes to GitHub.
 
 Vercel will automatically deploy your app.
 
-## License
-This project is licensed under the MIT Licens
